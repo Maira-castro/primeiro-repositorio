@@ -1,2 +1,2 @@
 # primeiro-repositorio
-Meu primeiro repositório remoto git. 
+Meu primeiro repositório remoto git.
