@@ -1,2 +1,3 @@
 var nome = "Maira"
-console.log(`Hello world ${nome}`);
+var idade = 23
+console.log(`Hello world ${nome} com ${idade} anos`);
